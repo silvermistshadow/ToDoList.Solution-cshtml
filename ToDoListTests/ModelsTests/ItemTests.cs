@@ -1,4 +1,4 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+/*using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ToDoList.Models;
 using ToDoList;
 using System;
@@ -54,7 +54,7 @@ namespace ToDoListTests
         // Assert
         Assert.AreEqual(updatedDescription, result);
     }*/
-    [TestMethod]
+    /*[TestMethod]
     public void GetAll_ReturnsEmptyListFromDatabase_ItemList()
     {
       // Arrange
@@ -143,4 +143,4 @@ namespace ToDoListTests
     }
 
   }
-}
+}*/
